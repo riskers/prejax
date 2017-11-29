@@ -1,4 +1,4 @@
-## JAX
+## PREJAX
 
 一款在发布模块前(npm publish)检查分支的工具:
 
@@ -7,7 +7,7 @@
 
 ### Install
 
-`tnpm install jax --save-dev` || `yarn add jax --dev`
+`tnpm install prejax --save-dev` or `yarn add prejax --dev`
 
 ### Usage
 
@@ -16,7 +16,7 @@
 ```json
 {
   "scripts": {
-    "prepublish": "jax"
+    "prepublish": "prejax"
   }
 }
 ```
