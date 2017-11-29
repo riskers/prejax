@@ -1,5 +1,5 @@
 {
-  "name": "jax",
+  "name": "prejax",
   "version": "0.0.1",
   "description": "一款在发布模块前检查分支的工具",
   "bin": "./index.js",
