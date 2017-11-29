@@ -1,0 +1,19 @@
+{
+  "name": "jax",
+  "version": "0.0.1",
+  "description": "一款在发布模块前检查分支的工具",
+  "bin": "./index.js",
+  "author": "riskers",
+  "license": "MIT",
+  "scripts": {
+    "prepublish": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/riskers/jax"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "shelljs": "^0.7.8"
+  }
+}
