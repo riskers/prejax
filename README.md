@@ -7,7 +7,7 @@
 
 ### Install
 
-`tnpm install prejax --save-dev` or `yarn add prejax --dev`
+`npm install prejax --save-dev` or `yarn add prejax --dev`
 
 ### Usage
 
